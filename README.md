@@ -69,7 +69,7 @@
 <h3>Imágenes</h3>
 <p>Imágenes obtenidas de páginas oficiales que hablan sobre Capitán América en Google</p>
 
-<h2>Code Snippets</h2>
+<h2 id="snippets">Code Snippets</h2>
 <p>He usado los siguientes:</p>
 <ul>
   <li>Carrousel</li>
