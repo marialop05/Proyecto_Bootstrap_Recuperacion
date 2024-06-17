@@ -1,0 +1,56 @@
+/*************************************************/
+/*          Realizado por: María López          */
+/*          Curso: 1ºDAM                       */
+/*         Página Bootstrap C.A               */
+/*         Fecha: 30/05/2024                 */
+/********************************************/
+@font-face {
+    font-family: titulo;
+    src: url("../fonts/HOMOARAK.TTF");
+}
+
+@font-face {
+    font-family: texto;
+    src: url("../fonts/Rubik-Regular.ttf");
+}
+.titulo{font-family: titulo;}
+.texto{font-family: texto;}
+
+/* general layout */
+.bg-vanilla{background-color: rgb(244, 242, 242);}
+.bg-azul{background-color: rgba(118, 118, 244, 0.863);}
+.bg-rojo{background-color: rgba(148, 3, 3, 0.911)}
+.bg-blanco{background-color: #a0a3a5e8;}
+.bg-negro{background-color: rgba(0, 0, 0, 0.918);}
+.bg-prim{background-color: rgb(168, 6, 6)}
+.text-blancosolid{color: #fefeff}
+.text-negrosolid{color: black;}
+.text.rojosolid{color: rgb(168, 6, 6);}
+.bg-azulito{background-color:rgba(60, 45, 135, 0.425)}
+body {background: none;}
+.side-background {
+    background-image: url("../images/fondo2.jpg");
+    background-size: 50px 50px;
+    background-repeat: repeat;
+}
+.main-content {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.page-wrapper {
+    display: flex;
+}
+.side {
+    width: 100px; /* Adjust this value as needed */
+}
+.content {
+    flex: 1;
+}
+#barra{color: rgb(50, 22, 233);}
+
+#contenedor p:first-letter{font-size: 1.5em;}
+
+#actores p::first-letter {font-size: 1em;}
