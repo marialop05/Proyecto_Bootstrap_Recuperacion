@@ -6,12 +6,12 @@
 /********************************************/
 @font-face {
     font-family: titulo;
-    src: url("../fonts/HOMOARAK.TTF");
+    src: url("../fonts/FiraSans-Light.ttf");
 }
 
 @font-face {
     font-family: texto;
-    src: url("../fonts/Rubik-Regular.ttf");
+    src: url("../fonts/Railway-PlyE.otf");
 }
 .titulo{font-family: titulo;}
 .texto{font-family: texto;}
