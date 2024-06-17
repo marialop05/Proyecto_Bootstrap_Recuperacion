@@ -1,4 +1,4 @@
-![actores](https://github.com/marialop05/Proyecto_Bootstrap_Recuperacion/assets/151635942/f0d92d68-b0b3-4dd7-9495-c50a224a5012)<h1>Memoria del proyecto de Lenguajes de Marcas Recuperación - 1ºDAM</h1>
+<h1>Memoria del proyecto de Lenguajes de Marcas Recuperación - 1ºDAM</h1>
 <h2>Capitán América</h2>
 <h2>Índice</h2>
 <ul>
